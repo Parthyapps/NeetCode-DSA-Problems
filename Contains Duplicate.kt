@@ -1,4 +1,8 @@
-  fun main() {
+// using Brute Force:
+    // Time complexity: O(n2)O(n2)
+    // Space complexity: O(1)O(1)
+
+fun main() {
     // intArrayOf is a Kotlin function used to create an array of integers.
       val array = intArrayOf(1,2,3,4)
       val result = containsDuplicate(array)
