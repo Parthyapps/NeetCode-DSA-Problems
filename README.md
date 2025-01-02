@@ -1,2 +1,2 @@
 # NeetCode-DSA-Problems
-DSA Problems NeetCode
+DSA Problems solving in NeetCode using kotlin language.
